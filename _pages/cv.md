@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find my updated CV.
+Here you can find my updated [CV](/files/Edoardo_Signoroni___CV.pdf).
