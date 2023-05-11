@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on my <a href="{{author.googlescholar}}"> Google Scholar </a> profile.
 
 **2023** 
 
 **Evaluating Sentence Alignment Methods in a Low-Resource Setting: an English-Yoruba study case**
+
 **Edoardo Signoroni** and Pavel Rychly
+
 Sixth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2023
 
 **2022**
